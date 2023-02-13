@@ -1,5 +1,5 @@
-# stroma_challange
-Object Detection and Counting
+# Stroma CV Challange (Multi-class Object Detection and Counting)
+
 
 ### Added Features
 - Track labels contains class names and track trace line removed
