@@ -21,3 +21,4 @@
 
 
 ![My Image](detection.gif)
+![](https://github.com/cengizhunter/stroma_challange/detection.gif)
