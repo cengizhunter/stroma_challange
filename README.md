@@ -19,7 +19,7 @@
  - https://github.com/RizwanMunawar/yolov5-object-tracking/commits?author=RizwanMunawar
  - https://github.com/abewley/sort
  
- 
+ ![My Image](detection.gif)
  ![](https://github.com/cengizhunter/stroma_challange/detection.gif)
 
 
