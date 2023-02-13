@@ -1,6 +1,5 @@
 # Stroma CV Challange (Multi-class Object Detection and Counting)
 
-![](https://github.com/cengizhunter/stroma_challange/detection.gif)
 
 ### Added Features
 - Track labels contains class names and track trace line removed
@@ -19,5 +18,6 @@
  - https://github.com/ultralytics/yolov5
  - https://github.com/RizwanMunawar/yolov5-object-tracking/commits?author=RizwanMunawar
  - https://github.com/abewley/sort
+![](https://github.com/cengizhunter/stroma_challange/detection.gif)
 
 
