@@ -1,4 +1,5 @@
 # Stroma CV Challange (Multi-class Object Detection and Counting)
+
 ![](https://github.com/cengizhunter/stroma_challange/detection.gif)
 
 ### Added Features
