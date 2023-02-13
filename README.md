@@ -20,4 +20,4 @@
  - https://github.com/abewley/sort
 
 
-![My Image](prediction.png)
+![My Image](detection.png)
