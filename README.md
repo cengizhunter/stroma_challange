@@ -1,5 +1,5 @@
 # Stroma CV Challange (Multi-class Object Detection and Counting)
-
+![](https://github.com/cengizhunter/stroma_challange/detection.gif)
 
 ### Added Features
 - Track labels contains class names and track trace line removed
@@ -20,5 +20,3 @@
  - https://github.com/abewley/sort
 
 
-![My Image](detection.gif)
-![](https://github.com/cengizhunter/stroma_challange/detection.gif)
