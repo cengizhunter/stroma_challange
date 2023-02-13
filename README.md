@@ -2,7 +2,7 @@
 Object Detection and Counting
 
 data download 
-images, labels and custom yml
+images, labels, custom yml file and trained model "best.pt"
 https://drive.google.com/drive/folders/1_h87v1ts_kUqZ5n5fOfQhJkevCvS-LdA?usp=sharing
 
 Reference Repo
