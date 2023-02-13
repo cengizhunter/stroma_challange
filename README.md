@@ -21,3 +21,4 @@
 
 
 ![My Image](detection.png)
+![My Image](detection.gif)
