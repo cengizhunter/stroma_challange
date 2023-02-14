@@ -12,6 +12,7 @@
 
 ### Pre-Requsities
 - Python 3.9 (Python 3.7/3.8 can work in some cases)
+- pip install -r requirements.txt
 
 ### data download 
 - images, labels, custom yml file and trained model "best.pt" (yolov5)
