@@ -1,6 +1,6 @@
 # Stroma CV Challange (Multi-class Object Detection and Counting)
 ### Changed Hyperparameters
-<img align="right" width="200" height="100" src="https://raw.githubusercontent.com/cengizhunter/stroma_challange/yolo.png">
+<img align="right" width="200" height="100" src="https://github.com/cengizhunter/stroma_challange/yolo.png">
 
 - Batch sized increased to 16
 - Confidence threshold increased to 0.65 to eliminate false detections
