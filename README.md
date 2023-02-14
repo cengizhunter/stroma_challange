@@ -5,6 +5,7 @@
 - Batch sized increased to 16
 - Confidence threshold increased to 0.65 to eliminate false detections
 - trained yolov5 and yolov8 models and achieved best overall accuracy was visually %100 on test video with yolov5
+- albumentations (horizontal flip, jitter, scale)
 
 ### Added Features
 - Track labels contains class names and track trace line removed
