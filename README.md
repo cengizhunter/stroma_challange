@@ -1,5 +1,5 @@
 # Stroma CV Challange (Multi-class Object Detection and Counting)
-
+ ![My Image](yolo.png)
 ### Changed Hyperparameters
 
 - Batch sized increased to 16
