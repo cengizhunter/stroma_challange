@@ -1,7 +1,7 @@
 # Stroma CV Challange (Multi-class Object Detection and Counting)
 
 ### Processing Unit
-- GPU NVIDIA A100-SXM4-40GB, 40536MiB
+- GPU NVIDIA A100-SXM4-40GB, 40536MiB (google colab)
 
 ### Changed Hyperparameters
 - Batch sized increased to 16, lr selected as 0.01
