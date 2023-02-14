@@ -20,8 +20,8 @@
 - python obj_det_and_trk_2.py --weights yolov5s.pt --source "your video.mp4"
 - 
 ### What is next (working on)
-**✨ Extra:** Inference optimizations (e.g. pruning, quantization) with libraries like TensorRT, ONNX runtime and a comparison of each
-**✨ Extra:** Optimizing  inference pipeline to work on an embedded system like a Jetson in real time. (>30fps)
+- **✨ Extra:** Inference optimizations (e.g. pruning, quantization) with libraries like TensorRT, ONNX runtime and a comparison of each
+- **✨ Extra:** Optimizing  inference pipeline to work on an embedded system like a Jetson in real time. (>30fps)
 
 ### References
  - https://github.com/ultralytics/yolov5
