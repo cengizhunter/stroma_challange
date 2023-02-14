@@ -4,7 +4,6 @@
 - Confidence threshold increased to 0.65 to eliminate false detections
 - trained yolov5 and yolov8 models and achieved best overall accuracy was visually %100 on test video with yolov5
 - albumentations (horizontal flip, jitter, scale)
-<img align="right" width="200" height="200" src="https://github.com/cengizhunter/stroma_challange/blob/main/yolo.png">
 
 ### Added Features
 - Track labels contains class names and track trace line removed
@@ -24,7 +23,8 @@
  - https://github.com/ultralytics/yolov5
  - https://github.com/RizwanMunawar/yolov5-object-tracking/commits?author=RizwanMunawar
  - https://github.com/abewley/sort
- 
+ <img align="right" width="200" height="200" src="https://github.com/cengizhunter/stroma_challange/blob/main/yolo.png">
+
  ![My Image](detection.gif)
 
 
