@@ -29,7 +29,7 @@
 
 ### References
  - https://github.com/ultralytics/yolov5
- - https://github.com/RizwanMunawar/yolov5-object-tracking/commits?author=RizwanMunawar
+ - https://github.com/RizwanMunawar/yolov5-object-tracking
  - https://github.com/abewley/sort
 
  ![My Image](detection.gif)
