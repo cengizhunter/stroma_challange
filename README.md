@@ -1,5 +1,10 @@
 # Stroma CV Challange (Multi-class Object Detection and Counting)
 
+### Changed Hyperparameters
+
+-Batch sized increased to 16
+-Confidence threshold increased to 0.65 to eliminate false detections
+-overall accuracy was visually %100 on test video
 
 ### Added Features
 - Track labels contains class names and track trace line removed
