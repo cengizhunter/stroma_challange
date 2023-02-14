@@ -1,6 +1,6 @@
 # Stroma CV Challange (Multi-class Object Detection and Counting)
-<img align="right" width="200" height="200" src="https://github.com/cengizhunter/stroma_challange/blob/main/yolo.png">
 ### Changed Hyperparameters
+<img align="right" width="200" height="200" src="https://github.com/cengizhunter/stroma_challange/blob/main/yolo.png">
 - Batch sized increased to 16
 - Confidence threshold increased to 0.65 to eliminate false detections
 - trained yolov5 and yolov8 models and achieved best overall accuracy was visually %100 on test video with yolov5
