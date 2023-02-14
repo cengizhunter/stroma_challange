@@ -27,4 +27,8 @@
 
  ![My Image](detection.gif)
 
+### What is next (working on)
 
+**✨ Extra:** Inference optimizations (e.g. pruning, quantization) with libraries like TensorRT, ONNX runtime and a comparison of each
+
+**✨ Extra:** Optimizing  inference pipeline to work on an embedded system like a Jetson in real time. (>30fps)
